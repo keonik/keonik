@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**keonik/keonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I go by John or Keoni
+- I currently work with:
+  - React
+  - Typescript
+  - Node
+  - Apollo
+  - Postgres
+- 🌱 I’m currently learning about:
+  - Creating a blog and developer site using Gatsby
+- 💬 Ask me about: 
+  - Disc golf
+  - Hiking
+  - Coding 
+- 📫 How to reach me: 
+  - I check Linkedin most often but feel free to reach out via email for now
+    -  john.k.fay@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<a href="https://github.com/keonik"><img src="https://img.shields.io/github/followers/keonik.svg?label=GitHub&style=social" alt="GitHub"></a>
+<!-- 	<a href="https://twitter.com/keonik"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a> -->
+	<a href="https://www.linkedin.com/in/johnkfay"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
