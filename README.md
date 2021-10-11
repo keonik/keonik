@@ -4,11 +4,12 @@
 - I currently work with:
   - React
   - Typescript
-  - Node
+  - Next.js
   - Apollo
   - Postgres
+  - Prisma
 - 🌱 I’m currently learning about:
-  - Creating a blog and developer site using Gatsby
+  - House flipping and becoming a father, so my open source coding is drastically slowing for a while
 - 💬 Ask me about: 
   - Disc golf
   - Hiking
