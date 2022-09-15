@@ -1,22 +1,19 @@
 ### Hi there 👋 
 
-- I go by John or Keoni
 - I currently work with:
-  - React
-  - Typescript
   - Next.js
+  - Typescript
+  - trpc
   - GraphQL
   - Postgres
   - Prisma
 - 🌱 I’m currently learning about:
-  - Being a father to a newborn born on 12/8/2021
-  - Property management
   - Improving my abilities in management and growth of my team
+  - Finding new and creative ways to assess skills in short interviews
 - 💬 Ask me about: 
   - Disc golf
   - Hiking
   - Coding
-  - Parenthood
 - 📫 How to reach me: 
 
 <p align="center">
