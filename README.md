@@ -3,13 +3,16 @@
 - I currently work with:
   - Next.js
   - Typescript
-  - trpc
   - GraphQL
   - Postgres
   - Prisma
+  - Material UI
 - 🌱 I’m currently learning about:
-  - Improving my abilities in management and growth of my team
-  - Finding new and creative ways to assess skills in short interviews
+  - How to become an effective Engineering Manager
+- 👨‍💻 In my free time I'm hacking on
+  - Solid.js
+  - trpc
+  - Tailwind
 - 💬 Ask me about: 
   - Disc golf
   - Hiking
