@@ -3,20 +3,18 @@
 - I currently work with:
   - Next.js
   - Typescript
-  - GraphQL
-  - Postgres
-  - Prisma
-  - Material UI
+  - Prisma/Drizzle
+  - RPC/Server Actions
+  - shadcn/ui
+  - TailwindCSS
 - 🌱 I’m currently learning about:
   - How to become an effective Engineering Manager
 - 👨‍💻 In my free time I'm hacking on
   - Solid.js
-  - trpc
-  - Tailwind
 - 💬 Ask me about: 
   - Disc golf
   - Hiking
-  - Coding
+  - Cycling
 - 📫 How to reach me: 
 
 <p align="center">
