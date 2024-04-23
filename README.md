@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning about:
   - How to become an effective Engineering Manager
 - 👨‍💻 In my free time I'm hacking on
-  - Solid.js
+  - Vite side projects and having a blast
 - 💬 Ask me about: 
   - Disc golf
   - Hiking
