@@ -7,14 +7,19 @@
   - RPC/Server Actions
   - shadcn/ui
   - TailwindCSS
+  - golang
+  - fiber
+  - wails
 - 🌱 I’m currently learning about:
-  - How to become an effective Engineering Manager
+  - .Net Minimal API's
+  - Astro/Remix
+  - Framer Motion
 - 👨‍💻 In my free time I'm hacking on
   - Vite side projects and having a blast
 - 💬 Ask me about: 
+  - Cycling
   - Disc golf
   - Hiking
-  - Cycling
 - 📫 How to reach me: 
 
 <p align="center">
