@@ -1,18 +1,15 @@
 ### Hi there 👋 
 
 - I currently work with:
-  - Next.js
+  - Go
   - Typescript
+  - PostgreSQL
   - Prisma/Drizzle
-  - RPC/Server Actions
+  - Next.js
   - shadcn/ui
   - TailwindCSS
-  - golang
-  - fiber
-  - wails
 - 🌱 I’m currently learning about:
-  - .Net Minimal API's
-  - Astro/Remix
+  - Astro/Tanstack Start
   - Framer Motion
 - 👨‍💻 In my free time I'm hacking on
   - Vite side projects and having a blast
