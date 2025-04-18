@@ -5,14 +5,16 @@
   - Typescript
   - PostgreSQL
   - Prisma/Drizzle
-  - Next.js
-  - shadcn/ui
-  - TailwindCSS
+  - Next.js/Tankstack Start
+  - shadcn/ui with TailwindCSS
 - 🌱 I’m currently learning about:
   - Astro/Tanstack Start
   - Framer Motion
+  - I'd argue I'm still learning Go
 - 👨‍💻 In my free time I'm hacking on
-  - Vite side projects and having a blast
+  - Tanstack Start for those quick ideas
+  - Go api's and trying to beef up skills with it
+  - Rust with Tauri apps
 - 💬 Ask me about: 
   - Cycling
   - Disc golf
